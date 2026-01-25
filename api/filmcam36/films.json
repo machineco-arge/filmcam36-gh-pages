@@ -1,0 +1,52 @@
+{
+  "films": [
+    {
+      "_id": "f0654e62-5182-4866-b7f1-0987b34b312e",
+      "svg": "https://aibooth.app/api/photoApp/access/film36shot-24h.svg",
+      "title": "Rulo1",
+      "shots": 36,
+      "time": 24
+    },
+    {
+      "_id": "5ae01557-735d-4a9d-9a18-8beaaf45ed02",
+      "svg": "https://aibooth.app/api/photoApp/access/film36shot-12h.svg",
+      "title": "Rulo3",
+      "shots": 24,
+      "time": 12
+    },
+    {
+      "_id": "2c9278f6-a9db-4b56-8f50-5a9e916ed8cc",
+      "svg": "https://aibooth.app/api/photoApp/access/film36shot-8h.svg",
+      "title": "Rulo2",
+      "shots": 12,
+      "time": 8
+    }
+  ],
+  "timeOptions": [
+    {
+      "_id": "1",
+      "time": 36,
+      "isExpress": false
+    },
+    {
+      "_id": "2",
+      "time": 24,
+      "isExpress": false
+    },
+    {
+      "_id": "3",
+      "time": 12,
+      "isExpress": true
+    },
+    {
+      "_id": "4",
+      "time": 8,
+      "isExpress": true
+    },
+    {
+      "_id": "5",
+      "time": 0,
+      "isExpress": true
+    }
+  ]
+}
