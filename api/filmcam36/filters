@@ -1,0 +1,287 @@
+{
+  "filters": [
+    {
+      "id": "filter1",
+      "name": "Kodamax",
+      "isFlash": false,
+      "svgURL": "https://aibooth.app/reduced_assets/1-868759d6-eb5f-48c5-9480-82d5cc88585b.png",
+      "miniUrl": "https://aibooth.app/reduced_assets/1-868759d6-eb5f-48c5-9480-82d5cc8858-m.png",
+      "images": [
+        {
+          "title": "Presentation",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/testFilter_01.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/p-kodomax.jpeg"
+        },
+        {
+          "title": "Örnek resim 1",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-bcbc3cdd-a0f3-4df4-9420-ca3c8cff5477.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-7d550ad9-ff0a-4dc7-af9f-b84708c101b6.png"
+        },
+        {
+          "title": "Örnek resim 2",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-5a1719af-5cbf-4e46-bec6-cf2e64a120e5.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-91aa7d62-2645-42fe-b590-b1afb13cdb84.png"
+        },
+        {
+          "title": "Örnek resim 3",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-ffd3e694-705a-4302-bf5d-0ea0ecfbc366.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-e41384b2-d1fb-493e-958c-15b230be6c87.png"
+        },
+        {
+          "title": "Örnek resim 4",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-19d911dd-fbad-4d21-8a22-1ef40e29dbad.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-715dedbe-0166-42d1-9860-5d0701328049.png"
+        },
+        {
+          "title": "Örnek resim 5",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-939335e4-c21c-4801-8257-c403ce2a1f7d.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-c790818e-2423-4743-86e2-c9fd37cd1102.jpg"
+        },
+        {
+          "title": "Örnek resim 6",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-206c6398-87ff-492e-b92e-f9e945a16787.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-9b1cc6d8-9031-41bf-8300-9929ee9e0612.jpg"
+        }
+      ]
+    },
+    {
+      "id": "filter2",
+      "name": "Pastelia",
+      "svgURL": "https://aibooth.app/reduced_assets/1-a5be005d-6bd6-4e8d-a0a6-18ca76ab0db1.png",
+      "miniUrl": "https://aibooth.app/reduced_assets/1-a5be005d-6bd6-4e8d-a0a6-18ca76ab0d-m.png",
+      "images": [
+        {
+          "title": "Presentation",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/testFilter_01.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/p-pastelia.jpeg"
+        },
+        {
+          "title": "Örnek resim 1",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-848b6462-0c53-429b-a2f5-25ea75a4badf.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-692740db-9977-4e6e-a0e0-8029a452362c.jpg"
+        },
+        {
+          "title": "Örnek resim 2",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-f0d88b7e-ad0a-4182-b21c-e0995d779756.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-cba6e064-e37d-40c2-80ac-1f157121ed7b.jpg"
+        },
+        {
+          "title": "Örnek resim 3",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-f9653f08-a552-4a47-b9fb-c170d5312961.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-bb48b0d0-e0c7-4842-914d-764a12227a1c.jpg"
+        },
+        {
+          "title": "Örnek resim 4",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-4fbde990-542c-4b55-a322-7f1372bb20c9.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-4dbb4268-84b3-40e4-b283-9a31e28111c8.jpg"
+        },
+        {
+          "title": "Örnek resim 5",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-60b9fd30-fd56-402d-a664-36a8a6cf20ac.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-88fd4cc6-90f2-4d90-b660-8fd0b2cc4632.jpg"
+        },
+        {
+          "title": "Örnek resim 6",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-7c8bc05a-8a0a-4597-a8d3-410297956365.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-41db539d-179c-4f77-9f3b-4fe9f9d3050d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "filter3",
+      "name": "Nightchrome",
+      "isFlash": false,
+      "svgURL": "https://aibooth.app/reduced_assets/1-53ee077f-8e27-4538-ac02-e26722e3350c.png",
+      "miniUrl": "https://aibooth.app/reduced_assets/1-53ee077f-8e27-4538-ac02-e26722e335-m.png",
+      "images": [
+        {
+          "title": "Presentation",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/testFilter_01.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/p-nightchrome.jpeg"
+        },
+        {
+          "title": "Örnek resim 1",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-d1ea0d29-ccdb-4def-9310-90b5aeb65a6c.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-90f9338e-cdee-4a7d-ba3b-4d67db719365.jpg"
+        },
+        {
+          "title": "Örnek resim 2",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-585ca889-8199-40c8-b740-d592978404fb.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-3f1a6c55-67d4-4f6c-96b0-0c5390358390.jpg"
+        },
+        {
+          "title": "Örnek resim 3",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-1c9c03df-2fd5-45e2-b836-8eae7f325798.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-85e3fdf5-dd91-4e70-9199-b11644b81c9a.jpg"
+        },
+        {
+          "title": "Örnek resim 4",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-e620e8fa-696f-4a65-8882-da714e198cd3.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-f377072c-8920-4812-bb1e-616e39fe8631.jpg"
+        },
+        {
+          "title": "Örnek resim 5",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-1e63c1c4-c12f-4f72-822a-88ba64b34379.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-ae62b4b4-0c19-4226-97e0-f4dd6a9be6bf.jpg"
+        },
+        {
+          "title": "Örnek resim 6",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-7ce62304-ba48-4584-9641-ddeafe8164cd.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-e62cbf62-b5f9-4612-97ad-eca29de7f84d.jpg"
+        }
+      ]
+    },
+    {
+      "id": "filter4",
+      "name": "Flashpop '99",
+      "isFlash": true,
+      "svgURL": "https://aibooth.app/reduced_assets/1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d81a.png",
+      "miniUrl": "https://aibooth.app/reduced_assets/1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d8-m.png",
+      "images": [
+        {
+          "title": "Presentation",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/testFilter_01.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/p-flashpop.jpeg"
+        },
+        {
+          "title": "Örnek resim 1",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-f92b5a32-0b6c-4b46-a573-c4acc8dc5d14.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-b1b5d06e-064a-42af-bf90-15acfe09a31a.jpg"
+        },
+        {
+          "title": "Örnek resim 2",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-b3ffff04-93d6-4537-86b2-ff73ff89742c.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-0bd7616e-33ea-4c1f-8f4d-8c0c63c900d7.jpg"
+        },
+        {
+          "title": "Örnek resim 3",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-0674046d-eedc-42bf-b154-dea2b6dd1e1b.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-1470f4ad-820c-43e8-bdd6-63817a2cb436.jpg"
+        },
+        {
+          "title": "Örnek resim 4",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-e20fec04-f456-4417-ab98-19cfca26dd68.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-9ff10090-f507-4cd0-86f2-f99d2e1334da.jpg"
+        },
+        {
+          "title": "Örnek resim 5",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-7abe58ac-b3a8-41f0-87a3-18ac4babdcd2.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-064953c1-b0d8-4be0-a3db-da56fed4a145.jpg"
+        },
+        {
+          "title": "Örnek resim 6",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-40d93de0-5f2a-4108-b81c-aa89e4d11037.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-7f6ffb32-a3a3-495a-874a-af45b617c2f8.jpg"
+        }
+      ]
+    },
+    {
+      "id": "filter5",
+      "name": "Lomocore",
+      "svgURL": "https://aibooth.app/reduced_assets/1-fdb252bf-9f7b-4fe7-875a-11e6226678fd.png",
+      "miniUrl": "https://aibooth.app/reduced_assets/1-fdb252bf-9f7b-4fe7-875a-11e6226678-m.png",
+      "images": [
+        {
+          "title": "Presentation",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/testFilter_01.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/p-lomocore.jpeg"
+        },
+        {
+          "title": "Örnek resim 1",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-dee42bf2-cedc-4b53-91b4-7680d094026d.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-25ac0c91-3fad-4945-b46e-b82c505ee527.jpg"
+        },
+        {
+          "title": "Örnek resim 2",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-a7360ef2-d5b0-4a02-bb2c-0782a18928be.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-6f855a1b-e8f1-457c-8e3c-07be75b60771.jpg"
+        },
+        {
+          "title": "Örnek resim 3",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-05fe74f8-3cef-41c1-a803-565a5e23ec9d.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-f4a3323c-0268-4b26-b0c3-b2bef1d7784a.jpg"
+        },
+        {
+          "title": "Örnek resim 4",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-d6b156aa-e1d6-45a4-bded-3f9ccbaec36a.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-16f2a9c1-3e03-4b95-931a-eef5c2c83e5f.jpg"
+        },
+        {
+          "title": "Örnek resim 5",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-7f2f58f9-8fcf-4dcc-8ec7-aa05c1be8123.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-bfca1997-643e-4718-9450-5e2f50346bf8.jpg"
+        },
+        {
+          "title": "Örnek resim 6",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/1-b56f25fd-a682-4fb2-8b73-db1beedaaa97.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/1-9f658af3-d0f8-444f-bd0c-060650d6b8d4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "filter6",
+      "name": "NoFilter",
+      "svgURL": "https://aibooth.app/reduced_assets/no-filter1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d81a.png",
+      "miniUrl": "https://aibooth.app/reduced_assets/no-filter1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d8-m.png",
+      "images": [
+        {
+          "title": "Presentation",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/testFilter_01.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/testFilter_01.jpg"
+        },
+        {
+          "title": "Örnek resim 1",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/no-filterdee42bf2-cedc-4b53-91b4-7680d094026d.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/no-filterdee42bf2-cedc-4b53-91b4-7680d094026d.jpg"
+        },
+        {
+          "title": "Örnek resim 2",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/no-filtera7360ef2-d5b0-4a02-bb2c-0782a18928be.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/no-filtera7360ef2-d5b0-4a02-bb2c-0782a18928be.jpg"
+        },
+        {
+          "title": "Örnek resim 3",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/no-filter05fe74f8-3cef-41c1-a803-565a5e23ec9d.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/no-filter05fe74f8-3cef-41c1-a803-565a5e23ec9d.jpg"
+        },
+        {
+          "title": "Örnek resim 4",
+          "beforeImgSrc": "https://aibooth.app/reduced_assets/no-filterd6b156aa-e1d6-45a4-bded-3f9ccbaec36a.jpg",
+          "afterImgSrc": "https://aibooth.app/reduced_assets/no-filterd6b156aa-e1d6-45a4-bded-3f9ccbaec36a.jpg"
+        }
+      ]
+    }
+  ],
+  "shaders": [
+    {
+      "id": "filter1",
+      "name": "Kodamax",
+      "shaderCode": "// Uniforms\nuniform shader u_image;\nuniform float2 u_resolution;\nuniform float u_time;\n\n// Kodamax Constants\nconst float CONTRAST = 1.35;              // Orta-yüksek kontrast\nconst float GRAIN_INTENSITY = 0.045;      // ISO 200-400 grain\nconst float GRAIN_SIZE = 2.5;             // Orta boyutlu grain\nconst float VIGNETTE_STRENGTH = 0.05;     // Hafif vignette\nconst float BLOOM_STRENGTH = 0.25;        // Tek pass bloom\nconst float CA_OFFSET = 0.4;              // Chromatic aberration\nconst float WARMTH = 0.18;                // Sıcak sarı/kırmızı ton\n\n// Gold tint for midtones\nconst vec3 GOLD_TINT = vec3(1.08, 0.95, 0.75);\nconst vec3 WARM_HIGHLIGHTS = vec3(1.12, 1.0, 0.88);\n\n// Hash function for grain\nfloat hash(vec2 p) {\n    return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453123);\n}\n\n// Film grain with golden tint\nfloat filmGrain(vec2 uv, float time) {\n    vec2 grainUV = uv * u_resolution.xy / GRAIN_SIZE;\n    float noise = hash(grainUV + vec2(time * 0.1, -time * 0.15));\n    noise = (noise - 0.5) * 2.0;\n    return noise * GRAIN_INTENSITY;\n}\n\n// Simple bloom effect\nvec3 simpleBloom(vec2 uv) {\n    vec3 bloom = vec3(0.0);\n    float total = 0.0;\n    \n    for(float x = -2.0; x \u003C= 2.0; x += 1.0) {\n        for(float y = -2.0; y \u003C= 2.0; y += 1.0) {\n            vec2 offset = vec2(x, y) / u_resolution.xy * 3.0;\n            vec3 sample = u_image.eval(uv + offset).rgb;\n            float weight = 1.0 - length(vec2(x, y)) / 3.5;\n            bloom += sample * weight;\n            total += weight;\n        }\n    }\n    \n    return bloom / total;\n}\n\n// Vignette effect\nfloat vignette(vec2 uv) {\n    vec2 center = uv - 0.5;\n    float dist = length(center);\n    return 1.0 - (dist * dist * VIGNETTE_STRENGTH * 2.5);\n}\n\n// Kodak color grading\nvec3 kodakColorGrade(vec3 color) {\n    // Warm base shift\n    color.r += WARMTH * 0.15;\n    color.g += WARMTH * 0.05;\n    color.b -= WARMTH * 0.1;\n    \n    // Luminance for selective grading\n    float luma = dot(color, vec3(0.299, 0.587, 0.114));\n    \n    // Gold tint in midtones (0.3-0.7 range)\n    float midtone = smoothstep(0.2, 0.4, luma) * (1.0 - smoothstep(0.6, 0.8, luma));\n    color *= mix(vec3(1.0), GOLD_TINT, midtone * 0.7);\n    \n    // Warm highlights\n    float highlight = smoothstep(0.6, 0.85, luma);\n    color *= mix(vec3(1.0), WARM_HIGHLIGHTS, highlight * 0.6);\n    \n    // Doygun color response (increase saturation slightly)\n    vec3 gray = vec3(luma);\n    color = mix(gray, color, 1.15);\n    \n    return color;\n}\n\n// Main shader function\nhalf4 main(float2 frag_coord) {\n    vec2 uv = frag_coord / u_resolution.xy;\n    \n    // Chromatic Aberration (0.4px offset)\n    vec2 caOffset = vec2(CA_OFFSET) / u_resolution.xy;\n    float r = u_image.eval(frag_coord + caOffset).r;\n    float g = u_image.eval(frag_coord).g;\n    float b = u_image.eval(frag_coord - caOffset).b;\n    vec3 color = vec3(r, g, b);\n    \n    // Apply Kodak color grading\n    color = kodakColorGrade(color);\n    \n    // Enhance contrast\n    color = (color - 0.5) * CONTRAST + 0.5;\n    \n    // Add bloom\n    vec3 bloomColor = simpleBloom(frag_coord);\n    color = mix(color, bloomColor, BLOOM_STRENGTH);\n    \n    // Add golden film grain\n    float grain = filmGrain(uv, u_time);\n    // Golden grain tint\n    color.r += grain * 1.1;\n    color.g += grain * 0.9;\n    color.b += grain * 0.6;\n    \n    // Apply vignette\n    color *= vignette(uv);\n    \n    // 90s flash look - subtle yellow wash on skin tones\n    float skinTone = smoothstep(0.4, 0.7, color.r) * \n                     smoothstep(0.2, 0.5, color.g) * \n                     (1.0 - smoothstep(0.1, 0.3, color.b));\n    color += vec3(0.08, 0.06, 0.0) * skinTone;\n    \n    // Final gamma for that film pop\n    color = pow(color, vec3(0.92));\n    \n    // Clamp values\n    color = clamp(color, 0.0, 1.0);\n    \n    return half4(color, 1.0);\n}"
+    },
+    {
+      "id": "filter2",
+      "name": "Pastelia",
+      "shaderCode": "// Uniforms\nuniform shader u_image;\nuniform float2 u_resolution;\nuniform float u_time;\n\n// Core global controls (recommended defaults)\nconst float EXPOSURE = 1.08;              // High-key bias\nconst float CONTRAST = 0.88;              // Soft, low contrast\nconst float SATURATION = 0.92;            // Gentle desaturation\n\n// PASTELIA specific\nconst float PASTEL_STRENGTH = 1.2;        // Global pastel amount\nconst float SKIN_PROTECT = 0.85;          // Protect skin tones\nconst float HIGHLIGHT_SOFTNESS = 0.7;     // Creamy highlight rolloff\nconst float SHADOW_LIFT = 0.22;           // Soft, lifted blacks\n\n// Grain\nconst float GRAIN_INTENSITY = 0.35;       // ISO 160-200 feel\n\n// Vignette\nconst float VIGNETTE_STRENGTH = 0.12;     // Very subtle\n\n// Constants\nconst vec3 LUMA_WEIGHTS = vec3(0.2126, 0.7152, 0.0722);\nconst vec3 SHADOW_TINT = vec3(0.95, 1.02, 1.03);  // Gentle green/cyan in shadows\n\n// === UTILITY FUNCTIONS ===\n\n// Hash-based noise for grain\nfloat hash(vec2 p) {\n    float h = dot(p, vec2(127.1, 311.7));\n    return fract(sin(h) * 43758.5453123);\n}\n\nfloat noise(vec2 p) {\n    vec2 i = floor(p);\n    vec2 f = fract(p);\n    vec2 u = f * f * (3.0 - 2.0 * f);\n    \n    return mix(\n        mix(hash(i + vec2(0.0, 0.0)), hash(i + vec2(1.0, 0.0)), u.x),\n        mix(hash(i + vec2(0.0, 1.0)), hash(i + vec2(1.0, 1.0)), u.x),\n        u.y\n    );\n}\n\n// RGB to HSL conversion\nvec3 rgb2hsl(vec3 c) {\n    float maxC = max(max(c.r, c.g), c.b);\n    float minC = min(min(c.r, c.g), c.b);\n    float delta = maxC - minC;\n    \n    vec3 hsl = vec3(0.0);\n    hsl.z = (maxC + minC) / 2.0; // Lightness\n    \n    if(delta \u003E 0.00001) {\n        hsl.y = delta / (1.0 - abs(2.0 * hsl.z - 1.0)); // Saturation\n        \n        // Hue\n        if(maxC == c.r) {\n            hsl.x = mod((c.g - c.b) / delta, 6.0);\n        } else if(maxC == c.g) {\n            hsl.x = (c.b - c.r) / delta + 2.0;\n        } else {\n            hsl.x = (c.r - c.g) / delta + 4.0;\n        }\n        hsl.x /= 6.0;\n    }\n    \n    return hsl;\n}\n\n// HSL to RGB conversion\nvec3 hsl2rgb(vec3 hsl) {\n    float c = (1.0 - abs(2.0 * hsl.z - 1.0)) * hsl.y;\n    float x = c * (1.0 - abs(mod(hsl.x * 6.0, 2.0) - 1.0));\n    float m = hsl.z - c / 2.0;\n    \n    vec3 rgb = vec3(0.0);\n    float h = hsl.x * 6.0;\n    \n    if(h \u003C 1.0) {\n        rgb = vec3(c, x, 0.0);\n    } else if(h \u003C 2.0) {\n        rgb = vec3(x, c, 0.0);\n    } else if(h \u003C 3.0) {\n        rgb = vec3(0.0, c, x);\n    } else if(h \u003C 4.0) {\n        rgb = vec3(0.0, x, c);\n    } else if(h \u003C 5.0) {\n        rgb = vec3(x, 0.0, c);\n    } else {\n        rgb = vec3(c, 0.0, x);\n    }\n    \n    return rgb + m;\n}\n\n// === MAIN SHADER ===\n\nhalf4 main(float2 frag_coord) {\n    vec2 uv = frag_coord / u_resolution.xy;\n    \n    // --- 1. BASE COLOR & INITIAL ADJUSTMENTS ---\n    vec3 original = u_image.eval(frag_coord).rgb;\n    vec3 color = original;\n    \n    // Apply exposure (high-key bias)\n    color *= EXPOSURE;\n    \n    // Soft contrast\n    color = (color - 0.5) * CONTRAST + 0.5;\n    color = clamp(color, 0.0, 1.0);\n    \n    // --- 2. CONVERT TO HSL ---\n    vec3 hsl = rgb2hsl(color);\n    float hue = hsl.x;\n    float sat = hsl.y;\n    float light = hsl.z;\n    \n    float luma = dot(color, LUMA_WEIGHTS);\n    \n    // --- 3. PASTEL COLOR SCIENCE (Fuji 400H) ---\n    \n    // Midtone mask (preserve midtones, reduce extremes)\n    float midMask = smoothstep(0.2, 0.5, luma) * (1.0 - smoothstep(0.5, 0.9, luma));\n    \n    // Global saturation shaping\n    float baseSat = SATURATION;\n    float pastelSat = mix(baseSat * 0.65, baseSat, midMask);\n    \n    // Green-cyan tilt in shadows (very subtle)\n    float shadowMask = smoothstep(0.0, 0.4, 0.4 - luma);\n    color = mix(color, color * SHADOW_TINT, shadowMask * 0.15 * PASTEL_STRENGTH);\n    \n    // Skin tone protection (20-45° hue range)\n    float skinMask = smoothstep(0.03, 0.12, hue) * (1.0 - smoothstep(0.25, 0.35, hue));\n    \n    // Apply saturation with skin protection\n    float protect = mix(1.0, 1.0 - SKIN_PROTECT, skinMask);\n    sat = mix(sat, sat * pastelSat, protect);\n    \n    // Slightly boost saturation in midtones for pastel \"pop\"\n    sat *= mix(1.0, 1.15, midMask * 0.3);\n    \n    hsl.y = clamp(sat, 0.0, 1.0);\n    \n    // Convert back to RGB\n    color = hsl2rgb(hsl);\n    \n    // --- 4. HIGHLIGHT SOFTENING & HIGH-KEY ROLLOFF ---\n    luma = dot(color, LUMA_WEIGHTS);\n    float highlightMask = smoothstep(0.6, 1.0, luma);\n    \n    // Soft highlight compression (Fuji-like creamy whites)\n    float roll = mix(luma, 1.0 - exp(-3.0 * luma), HIGHLIGHT_SOFTNESS);\n    float highlightLift = mix(luma, roll, highlightMask * HIGHLIGHT_SOFTNESS);\n    \n    // Re-scale color based on new luminance\n    float oldLuma = max(luma, 1e-4);\n    float factor = highlightLift / oldLuma;\n    color *= factor;\n    \n    // --- 5. SHADOW LIFT (Soft Blacks) ---\n    luma = dot(color, LUMA_WEIGHTS);\n    float blackMask = 1.0 - smoothstep(0.0, 0.25, luma);\n    float liftedLuma = luma + SHADOW_LIFT * blackMask * 0.5;\n    \n    // Re-map color\n    oldLuma = max(luma, 1e-4);\n    factor = liftedLuma / oldLuma;\n    color *= factor;\n    \n    // --- 6. OVERALL PASTEL BLEND ---\n    color = mix(original, color, PASTEL_STRENGTH);\n    \n    // --- 7. FINE FILM GRAIN (ISO 160-200) ---\n    luma = dot(color, LUMA_WEIGHTS);\n    \n    vec2 grainUV = uv * u_resolution.xy;\n    \n    float nR = noise(grainUV + vec2(1.0, 0.0) + u_time * 7.31);\n    float nG = noise(grainUV + vec2(0.0, 1.0) + u_time * 9.17);\n    float nB = noise(grainUV + vec2(2.0, 2.0) + u_time * 11.53);\n    \n    vec3 grain = vec3(nR, nG, nB) * 2.0 - 1.0;\n    \n    // Less grain in highlights, more in mid/shadows\n    float grainMask = 1.0 - smoothstep(0.6, 1.0, luma);\n    float grainAmount = GRAIN_INTENSITY * 0.04;\n    color += grain * grainAmount * grainMask;\n    \n    // --- 8. SUBTLE VIGNETTE ---\n    vec2 centered = uv - 0.5;\n    float r = length(centered) * 1.4;\n    float vignette = smoothstep(1.1, 0.6, r);\n    color *= mix(1.0, vignette, VIGNETTE_STRENGTH);\n    \n    // --- 9. FINAL OUTPUT ---\n    color = clamp(color, 0.0, 1.0);\n    \n    return half4(color, 1.0);\n}"
+    },
+    {
+      "id": "filter3",
+      "name": "Nightchrome",
+      "shaderCode": "// Uniforms\nuniform shader u_image;\nuniform float2 u_resolution;\nuniform float u_time;\n\n// Core controls (recommended defaults)\nconst float EXPOSURE = 1.3;\nconst float CONTRAST = 0.9;\nconst float SATURATION = 1.05;\n\n// Nightchrome specific\nconst float HALATION_INTENSITY = 0.65;\nconst float HALATION_RADIUS = 0.008;\nconst float SHADOW_CYAN_SHIFT = 1.45;\nconst float NEON_VIBRANCE = 0.85;\nconst float VIGNETTE_STRENGTH = 0.35;\nconst float BARREL_DISTORTION = 0.045;\n\n// Grain\nconst float GRAIN_INTENSITY = 0.55;\n\n// Constants\nconst vec3 LUMA_WEIGHTS = vec3(0.2126, 0.7152, 0.0722);\nconst vec3 SHADOW_TINT = vec3(0.85, 1.0, 1.2);  // Cyan-blue bias\nconst vec3 HALO_COLOR = vec3(1.2, 0.35, 0.15);  // Red-orange halation\n\n// === UTILITY FUNCTIONS ===\n\n// Hash-based noise for grain\nfloat hash(vec2 p) {\n    float h = dot(p, vec2(127.1, 311.7));\n    return fract(sin(h) * 43758.5453123);\n}\n\nfloat noise(vec2 p) {\n    vec2 i = floor(p);\n    vec2 f = fract(p);\n    vec2 u = f * f * (3.0 - 2.0 * f);\n    \n    return mix(\n        mix(hash(i + vec2(0.0, 0.0)), hash(i + vec2(1.0, 0.0)), u.x),\n        mix(hash(i + vec2(0.0, 1.0)), hash(i + vec2(1.0, 1.0)), u.x),\n        u.y\n    );\n}\n\n// RGB to HSV conversion\nvec3 rgb2hsv(vec3 c) {\n    vec4 K = vec4(0.0, -1.0 / 3.0, 2.0 / 3.0, -1.0);\n    vec4 p = mix(vec4(c.bg, K.wz), vec4(c.gb, K.xy), step(c.b, c.g));\n    vec4 q = mix(vec4(p.xyw, c.r), vec4(c.r, p.yzx), step(p.x, c.r));\n    \n    float d = q.x - min(q.w, q.y);\n    float e = 1.0e-10;\n    return vec3(abs(q.z + (q.w - q.y) / (6.0 * d + e)), d / (q.x + e), q.x);\n}\n\n// HSV to RGB conversion\nvec3 hsv2rgb(vec3 c) {\n    vec4 K = vec4(1.0, 2.0 / 3.0, 1.0 / 3.0, 3.0);\n    vec3 p = abs(fract(c.xxx + K.xyz) * 6.0 - K.www);\n    return c.z * mix(K.xxx, clamp(p - K.xxx, 0.0, 1.0), c.y);\n}\n\n// === MAIN SHADER ===\n\nhalf4 main(float2 frag_coord) {\n    vec2 uv = frag_coord / u_resolution.xy;\n    \n    // --- 1. BARREL DISTORTION & VIGNETTE BASE ---\n    vec2 uvCentered = (uv - 0.5) * 2.0;\n    float r = length(uvCentered);\n    \n    // Barrel distortion\n    vec2 uvDistorted = uvCentered * (1.0 + BARREL_DISTORTION * r * r);\n    uvDistorted = (uvDistorted * 0.5) + 0.5;\n    uvDistorted = clamp(uvDistorted, 0.0, 1.0);\n    \n    // Vignette factor\n    float vignette = smoothstep(1.0, 1.0 - VIGNETTE_STRENGTH * 0.6, r);\n    \n    vec2 distortedCoord = uvDistorted * u_resolution.xy;\n    \n    // --- 2. BASE COLOR, EXPOSURE & CONTRAST ---\n    vec3 color = u_image.eval(distortedCoord).rgb;\n    \n    // Apply exposure\n    color *= EXPOSURE;\n    \n    // S-curve contrast\n    color = (color - 0.5) * CONTRAST + 0.5;\n    color = clamp(color, 0.0, 1.0);\n    \n    // --- 3. TUNGSTEN / CYAN SHADOW SHIFT ---\n    float luma = dot(color, LUMA_WEIGHTS);\n    \n    // Shadow mask (more weight in dark areas)\n    float shadowMask = smoothstep(0.0, 0.6, 0.6 - luma);\n    \n    // Apply cyan-blue to shadows only\n    color = mix(color, color * SHADOW_TINT, shadowMask * SHADOW_CYAN_SHIFT);\n    \n    // --- 4. NEON VIBRANCE BOOST ---\n    vec3 hsv = rgb2hsv(color);\n    float hue = hsv.x * 360.0;\n    float sat = hsv.y;\n    \n    // Neon mask: teal/cyan (160-220°) and magenta/pink (280-330°)\n    float neonMask1 = smoothstep(140.0, 160.0, hue) * (1.0 - smoothstep(220.0, 240.0, hue));\n    float neonMask2 = smoothstep(260.0, 280.0, hue) * (1.0 - smoothstep(330.0, 350.0, hue));\n    float neonMask = max(neonMask1, neonMask2);\n    \n    // Avoid boosting skin tones (20-50°)\n    float skinMask = smoothstep(10.0, 20.0, hue) * (1.0 - smoothstep(50.0, 60.0, hue));\n    neonMask *= (1.0 - skinMask * 0.8);\n    \n    // Apply vibrance\n    float satBoost = 1.0 + (NEON_VIBRANCE * neonMask * sat);\n    hsv.y = clamp(hsv.y * satBoost, 0.0, 1.0);\n    \n    // Apply general saturation\n    hsv.y *= SATURATION;\n    hsv.y = clamp(hsv.y, 0.0, 1.0);\n    \n    color = hsv2rgb(hsv);\n    \n    // --- 5. RED HALATION AROUND HIGHLIGHTS ---\n    float bright = max(max(color.r, color.g), color.b);\n    float halationMask = smoothstep(0.65, 0.95, bright);\n    \n    vec3 haloAccum = vec3(0.0);\n    float haloWeight = 0.0;\n    \n    // Sample 12 directions for halation\n    for(float angle = 0.0; angle \u003C 6.28318; angle += 0.523599) {\n        for(float dist = 1.0; dist \u003C= 2.5; dist += 0.75) {\n            vec2 offset = vec2(cos(angle), sin(angle)) * HALATION_RADIUS * dist;\n            vec3 sample = u_image.eval(distortedCoord + offset * u_resolution.xy).rgb;\n            \n            float sampleBright = max(max(sample.r, sample.g), sample.b);\n            if(sampleBright \u003E 0.6) {\n                float weight = (1.0 - dist / 2.5) * sampleBright;\n                haloAccum += sample * weight;\n                haloWeight += weight;\n            }\n        }\n    }\n    \n    if(haloWeight \u003E 0.0) {\n        haloAccum /= haloWeight;\n    }\n    \n    vec3 halo = haloAccum * HALO_COLOR;\n    color += halo * HALATION_INTENSITY * halationMask * 0.8;\n    \n    // --- 6. ISO 800 FILM GRAIN ---\n    vec2 grainUV = uv * u_resolution.xy / 2.5;\n    \n    float nR = noise(grainUV + vec2(1.0, 0.0) + u_time * 13.0);\n    float nG = noise(grainUV + vec2(0.0, 1.0) + u_time * 17.0);\n    float nB = noise(grainUV + vec2(2.0, 2.0) + u_time * 19.0);\n    \n    vec3 grain = vec3(nR, nG, nB) * 2.0 - 1.0;\n    \n    // More grain in shadows\n    float grainMask = mix(0.4, 1.0, shadowMask);\n    color += grain * GRAIN_INTENSITY * 0.07 * grainMask;\n    \n    // --- 7. VIGNETTE APPLICATION ---\n    color *= mix(1.0, vignette, VIGNETTE_STRENGTH);\n    \n    // --- 8. FINAL OUTPUT ---\n    color = clamp(color, 0.0, 1.0);\n    \n    return half4(color, 1.0);\n}"
+    },
+    {
+      "id": "filter4",
+      "name": "Flashpop '99",
+      "shaderCode": "// Uniforms\nuniform shader u_image;\nuniform float2 u_resolution;\nuniform float u_time;\n\n// Core controls\nconst float EXPOSURE = 1.0;\nconst float CONTRAST = 1.1;              // Medium contrast\nconst float SATURATION = 1.0;            // Natural saturation\n\n// Flash hotspot controls\nconst float2 FLASH_CENTER = float2(0.5, 0.4);  // Slightly above center\nconst float FLASH_RADIUS = 1.4;          // Base flash radius (0.1 - 0.8)\nconst float FLASH_INTENSITY = 0.0;       // Brightness boost (0.0 - 2.0)\nconst float FLASH_FALLOFF = 1.2;         // How quickly it fades (0.5 - 4.0)\n\n// Color / White Balance\nconst float COOL_WB = 0.6;               // Cool whites (0.0 - 1.0)\nconst float SKIN_WARMTH = 0.8;           // Warm compensation for skin (0.0 - 1.0)\nconst float BACKGROUND_DESAT = 0.5;      // Desaturate dark/bg areas (0.0 - 1.0)\n\n// Highlight & Halation\nconst float HIGHLIGHT_BOOST = 0.3;       // Highlight enhancement (0.0 - 1.0)\nconst float MINI_HALATION = 0.4;         // Warm glow on highlights (0.0 - 1.0)\n\n// Grain\nconst float GRAIN_INTENSITY = 0.6;       // ISO 400 film grain (0.0 - 1.0)\n\n// Constants\nconst vec3 LUMA_WEIGHTS = vec3(0.2126, 0.7152, 0.0722);\n\n// === UTILITY FUNCTIONS ===\n\n// Hash function for noise\nfloat hash(vec2 p) {\n    p = fract(p * vec2(123.34, 345.45));\n    p += dot(p, p + 34.345);\n    return fract(p.x * p.y);\n}\n\n// Approximate hue extraction from RGB\nfloat getHue(vec3 c) {\n    float maxC = max(max(c.r, c.g), c.b);\n    float minC = min(min(c.r, c.g), c.b);\n    float delta = maxC - minC;\n    float hue = 0.0;\n    \n    if (delta \u003E 1e-5) {\n        if (maxC == c.r) {\n            hue = (c.g - c.b) / delta;\n        } else if (maxC == c.g) {\n            hue = 2.0 + (c.b - c.r) / delta;\n        } else {\n            hue = 4.0 + (c.r - c.g) / delta;\n        }\n        hue = fract(hue / 6.0); // Normalize to 0..1\n    }\n    \n    return hue;\n}\n\n// === MAIN SHADER ===\n\nhalf4 main(float2 frag_coord) {\n    vec2 uv = frag_coord / u_resolution.xy;\n    \n    // --- 1. BASE COLOR WITH EXPOSURE & CONTRAST ---\n    vec3 color = u_image.eval(frag_coord).rgb;\n    \n    // Base exposure & contrast\n    color *= EXPOSURE;\n    color = (color - 0.5) * CONTRAST + 0.5;\n    color = clamp(color, 0.0, 1.0);\n    \n    // --- 2. FLASH HOTSPOT MASK (RADIAL) ---\n    vec2 fc = FLASH_CENTER;\n    vec2 df = uv - fc;\n    float dist = length(df); // 0 at flash center\n    \n    // Normalized radius\n    float r = dist / max(FLASH_RADIUS, 0.001);\n    \n    // 1 at center, 0 at outer edge\n    float flashMask = 1.0 - smoothstep(0.0, 1.0, pow(r, FLASH_FALLOFF));\n    flashMask = clamp(flashMask, 0.0, 1.0);\n    \n    // --- 3. FLASH LIGHTING: BRIGHTEN CENTER, DARKEN BACKGROUND ---\n    // Center gets brighter, edges darker than original\n    float centerBoost = 1.0 + FLASH_INTENSITY * flashMask;\n    float edgeDarken = mix(1.0, 0.55, 1.0 - flashMask); // 0.55 at far edges (darker background)\n    \n    float lightFactor = mix(edgeDarken, centerBoost, flashMask);\n    color *= lightFactor;\n    \n    // --- 4. LUMINANCE AND MASKS ---\n    float luma = dot(color, LUMA_WEIGHTS);\n    \n    // Highlight mask: bright flash hits\n    float highlightMask = smoothstep(0.65, 0.9, luma);\n    \n    // Shadow / background mask\n    float shadowMask = smoothstep(0.2, 0.0, luma); // 1 in dark areas\n    \n    // --- 5. COOL WHITE BALANCE + SKIN PROTECTION ---\n    // Extract approximate hue for skin detection\n    float hue = getHue(color);\n    \n    // Skin hue range ~ 20°-45° → ~0.055-0.125\n    float skinMask = smoothstep(0.05, 0.12, hue) * (1.0 - smoothstep(0.18, 0.25, hue));\n    \n    // Cool overall WB (slightly cyan/blue)\n    vec3 coolTint = vec3(0.95, 1.02, 1.06);\n    vec3 cooled = mix(color, color * coolTint, COOL_WB);\n    \n    // Warm correction for skin tones\n    vec3 warmTint = vec3(1.08, 1.02, 0.96);\n    vec3 skinCorrected = mix(cooled, cooled * warmTint, SKIN_WARMTH * skinMask);\n    \n    color = skinCorrected;\n    \n    // --- 6. BACKGROUND DESATURATION ---\n    // Direct flash makes background look muddy/desaturated\n    float avgColor = (color.r + color.g + color.b) / 3.0;\n    vec3 gray = vec3(avgColor);\n    \n    // Combine shadowMask and (1 - flashMask) to target background\n    float bgMask = clamp(shadowMask + (1.0 - flashMask) * 0.7, 0.0, 1.0);\n    \n    color = mix(color, mix(color, gray, BACKGROUND_DESAT), bgMask);\n    \n    // --- 7. HIGHLIGHT BOOST & MINI-HALATION ---\n    // 7a. Boost highlights slightly\n    vec3 boosted = color * (1.0 + 0.4 * HIGHLIGHT_BOOST * highlightMask);\n    color = mix(color, boosted, HIGHLIGHT_BOOST);\n    \n    // 7b. Tiny warm halation around brightest spots\n    vec2 px = 1.0 / u_resolution;\n    \n    vec3 haloSample = vec3(0.0);\n    haloSample += u_image.eval(frag_coord + vec2(px.x, 0.0) * u_resolution).rgb;\n    haloSample += u_image.eval(frag_coord + vec2(-px.x, 0.0) * u_resolution).rgb;\n    haloSample += u_image.eval(frag_coord + vec2(0.0, px.y) * u_resolution).rgb;\n    haloSample += u_image.eval(frag_coord + vec2(0.0, -px.y) * u_resolution).rgb;\n    haloSample *= 0.25;\n    \n    vec3 haloColor = haloSample * vec3(1.1, 0.95, 0.9); // Warmish glow\n    \n    // Stronger halo where both flash and highlight are high\n    float haloMask = highlightMask * flashMask;\n    color = mix(color, color + haloColor * 0.25, MINI_HALATION * haloMask);\n    \n    // --- 8. FINAL SATURATION ---\n    avgColor = (color.r + color.g + color.b) / 3.0;\n    color = mix(vec3(avgColor), color, SATURATION);\n    \n    // --- 9. FILM GRAIN (~ISO 400) ---\n    // Medium grain, stronger in shadows and mids\n    vec2 grainUV = uv * u_resolution * 0.7;\n    \n    float gR = hash(grainUV + vec2(1.0, 3.0) + u_time * 7.3);\n    float gG = hash(grainUV + vec2(5.0, 1.0) + u_time * 9.7);\n    float gB = hash(grainUV + vec2(2.0, 4.0) + u_time * 11.1);\n    \n    vec3 grain = vec3(gR, gG, gB) * 2.0 - 1.0;\n    \n    float finalLuma = dot(color, LUMA_WEIGHTS);\n    float grainMask = 1.0 - smoothstep(0.75, 1.0, finalLuma); // Less grain in bright flash spots\n    \n    color += grain * (0.09 * GRAIN_INTENSITY) * grainMask;\n    \n    // --- 10. VERY LIGHT VIGNETTE ---\n    // Direct flash has minimal vignette, but slight edge darkening\n    vec2 centered = uv - vec2(0.5);\n    float rad = length(centered);\n    float vignette = smoothstep(1.1, 0.6, rad);\n    color *= mix(1.0, vignette, 0.15); // Very subtle\n    \n    // --- 11. FINAL OUTPUT ---\n    color = clamp(color, 0.0, 1.0);\n    \n    return half4(color, 1.0);\n}"
+    },
+    {
+      "id": "filter5",
+      "name": "Lomocore",
+      "shaderCode": "// Uniforms\nuniform shader u_image;\nuniform float2 u_resolution;\nuniform float u_time;\n\n// Core controls\nconst float EXPOSURE = 1.08;\nconst float CONTRAST = 1.45;              // High contrast\nconst float SATURATION = 1.65;            // High saturation\n\n// Lens / Lomo controls\nconst float VIGNETTE_STRENGTH = 0.70;     // Heavy vignette\nconst float BARREL_DISTORTION = 0.18;     // Toy lens distortion\nconst float SOFT_FOCUS = 0.6;             // Edge blur\nconst float CROSS_PROCESS = 0.8;          // Cross-process intensity\n\n// Film burn controls (base values, will be randomized)\nconst float BURN_INTENSITY_BASE = 2.75;\nconst float BURN_WIDTH_BASE = 0.53;        // Width from edges\nconst float BURN_SOFTNESS_BASE = 0.2;\nconst float BURN_NOISE_AMOUNT = 0.5;\n\n// Grain\nconst float GRAIN_INTENSITY = 0.65;       // ISO 400 dirty grain\n\n// Constants\nconst vec3 LUMA_WEIGHTS = vec3(0.2126, 0.7152, 0.0722);\n\n// === UTILITY FUNCTIONS ===\n\n// Hash function for noise\nfloat hash(vec2 p) {\n    p = fract(p * vec2(123.34, 345.45));\n    p += dot(p, p + 34.345);\n    return fract(p.x * p.y);\n}\n\n// Low frequency noise for smooth film burn\nfloat lowFreqNoise(vec2 p) {\n    vec2 i = floor(p);\n    vec2 f = fract(p);\n    vec2 u = f * f * (3.0 - 2.0 * f);\n    \n    float a = hash(i);\n    float b = hash(i + vec2(1.0, 0.0));\n    float c = hash(i + vec2(0.0, 1.0));\n    float d = hash(i + vec2(1.0, 1.0));\n    \n    return mix(mix(a, b, u.x), mix(c, d, u.x), u.y);\n}\n\n// === MAIN SHADER ===\n\nhalf4 main(float2 frag_coord) {\n    vec2 uv = frag_coord / u_resolution.xy;\n    \n    // --- 0. RANDOMIZE BURN PARAMETERS ---\n    // Create unique seed based on resolution and time (changes each photo/render)\n    float baseSeed = hash(u_resolution * 0.001 + u_time * 0.01);\n    \n    // Randomly choose corner for burn (0=top-left, 1=top-right, 2=bottom-left, 3=bottom-right)\n    // Focus on top corners for more natural light leak effect\n    float cornerChoice = hash(vec2(baseSeed, 1.234));\n    int cornerIndex = int(cornerChoice * 4.0);  // 0-3\n    \n    // Randomize corner burn parameters\n    float cornerBurnLength = mix(0.65, 1.0, hash(vec2(baseSeed, 2.345)));   // Length down/across (65-100% of image) - LONGER\n    float cornerBurnWidth = mix(0.35, 0.60, hash(vec2(baseSeed, 3.456)));   // Width of the streak - WIDER\n    float cornerBurnIntensity = BURN_INTENSITY_BASE * mix(0.8, 1.4, hash(vec2(baseSeed, 4.567)));\n    float cornerBurnSoftness = mix(2.2, 4.5, hash(vec2(baseSeed, 5.678)));  // Edge softness - SOFTER\n    float cornerBurnSpread = mix(0.8, 1.5, hash(vec2(baseSeed, 6.789)));    // How much it spreads as it goes - MORE SPREAD\n    \n    // --- 1. BARREL DISTORTION (Toy Lens) ---\n    vec2 centered = uv * 2.0 - 1.0;\n    float r2 = dot(centered, centered);\n    float k = BARREL_DISTORTION;\n    vec2 distorted = centered * (1.0 + k * r2);\n    vec2 uvLens = distorted * 0.5 + 0.5;\n    uvLens = clamp(uvLens, 0.0, 1.0);\n    \n    vec2 lensCoord = uvLens * u_resolution.xy;\n    \n    // --- 2. BASE COLOR WITH EXPOSURE & CONTRAST ---\n    vec3 color = u_image.eval(lensCoord).rgb;\n    color *= EXPOSURE;\n    color = (color - 0.5) * CONTRAST + 0.5;\n    color = clamp(color, 0.0, 1.0);\n    \n    // --- 3. SOFT FOCUS / EDGE BLUR ---\n    vec2 px = vec2(1.5);\n    \n    vec3 blur = vec3(0.0);\n    blur += u_image.eval(lensCoord + vec2(-px.x, -px.y)).rgb;\n    blur += u_image.eval(lensCoord + vec2( px.x, -px.y)).rgb;\n    blur += u_image.eval(lensCoord + vec2(-px.x,  px.y)).rgb;\n    blur += u_image.eval(lensCoord + vec2( px.x,  px.y)).rgb;\n    blur *= 0.25;\n    \n    float rad = length(centered);\n    float edgeSoft = smoothstep(0.2, 1.0, rad);\n    color = mix(color, blur, edgeSoft * SOFT_FOCUS);\n    \n    // --- 4. CROSS-PROCESS COLOR (Red/Green Blast) ---\n    float luma = dot(color, LUMA_WEIGHTS);\n    \n    // Shadows → green/cyan\n    float shadowMask = smoothstep(0.0, 0.5, 0.5 - luma);\n    color = mix(color, color * vec3(0.88, 1.15, 1.12), shadowMask * 0.75 * CROSS_PROCESS);\n    \n    // Highlights → warm/yellow\n    float highlightMask = smoothstep(0.5, 1.0, luma);\n    color = mix(color, color * vec3(1.15, 1.08, 0.88), highlightMask * 0.6 * CROSS_PROCESS);\n    \n    // Extra punch (typical cross-process look)\n    color = pow(color, vec3(0.88));\n    color = (color - 0.5) * (1.0 + 0.4 * CROSS_PROCESS) + 0.5;\n    \n    // High saturation\n    float avg = (color.r + color.g + color.b) / 3.0;\n    color = mix(vec3(avg), color, SATURATION);\n    \n    // Red/green color explosion (Lomo signature)\n    color.r *= 1.08;\n    color.g *= 1.05;\n    \n    // --- 5. CORNER BURN (köşeden aşağı doğru ışık sızması) ---\n    \n    // Determine corner position and direction\n    vec2 cornerPos;\n    vec2 burnDirection;\n    \n    if(cornerIndex == 0) {\n        // Top-left corner, burn goes down and right\n        cornerPos = vec2(0.0, 0.0);\n        burnDirection = vec2(1.0, 1.0);\n    } else if(cornerIndex == 1) {\n        // Top-right corner, burn goes down and left\n        cornerPos = vec2(1.0, 0.0);\n        burnDirection = vec2(-1.0, 1.0);\n    } else if(cornerIndex == 2) {\n        // Bottom-left corner, burn goes up and right\n        cornerPos = vec2(0.0, 1.0);\n        burnDirection = vec2(1.0, -1.0);\n    } else {\n        // Bottom-right corner, burn goes up and left\n        cornerPos = vec2(1.0, 1.0);\n        burnDirection = vec2(-1.0, -1.0);\n    }\n    \n    // Calculate distance from corner\n    vec2 fromCorner = (uv - cornerPos) * burnDirection;\n    \n    // Create VERTICAL streak from corner (not diagonal)\n    // Main axis: vertical distance (Y direction)\n    float verticalDist = abs(fromCorner.y);  // How far down/up from corner\n    \n    // Perpendicular: horizontal distance (X direction - width of streak)\n    float horizontalDist = abs(fromCorner.x);\n    \n    // Length falloff (burn fades as it goes down/up from corner)\n    float lengthMask = 1.0 - smoothstep(0.0, cornerBurnLength, verticalDist);\n    lengthMask = pow(lengthMask, 1.3);  // Softer falloff\n    \n    // Width falloff (streak width with spread as it goes down/up)\n    float widthAtDistance = cornerBurnWidth * (1.0 + verticalDist * cornerBurnSpread);\n    float widthMask = 1.0 - smoothstep(0.0, widthAtDistance, horizontalDist);\n    widthMask = pow(widthMask, cornerBurnSoftness);\n    \n    // Combine length and width\n    float cornerBurn = lengthMask * widthMask;\n    \n    // Add organic cloud-like variation\n    float burnNoiseCoord = verticalDist * 4.0 + u_time * 0.08;\n    float burnNoise1 = lowFreqNoise(vec2(burnNoiseCoord, horizontalDist * 3.0 + 0.5));\n    float burnNoise2 = lowFreqNoise(vec2(burnNoiseCoord * 1.4, horizontalDist * 2.0 + 1.3));\n    float burnNoise3 = lowFreqNoise(vec2(burnNoiseCoord * 0.7, horizontalDist * 5.0 + 2.1));\n    \n    // Combine noise layers for natural film burn look\n    float burnCloud = (burnNoise1 * 0.5 + burnNoise2 * 0.3 + burnNoise3 * 0.2);\n    burnCloud = burnCloud * 1.3 - 0.15;\n    \n    // Wave pattern for organic variation\n    float burnWave = sin(horizontalDist * 6.0 + u_time * 0.12) * 0.2 + 0.8;\n    burnCloud *= burnWave;\n    \n    // Apply noise to burn\n    float burnNoiseFactor = mix(1.0, burnCloud, BURN_NOISE_AMOUNT);\n    float totalBurnMask = cornerBurn * burnNoiseFactor;\n    totalBurnMask = clamp(totalBurnMask, 0.0, 1.0);\n    \n    float burnIntensityBlend = cornerBurnIntensity;\n    \n    // Color ramp for burns (white → yellow → orange → red)\n    float m = totalBurnMask;\n    float core = smoothstep(0.6, 1.0, m);\n    \n    vec3 cWhite  = vec3(1.0, 0.95, 0.90);\n    vec3 cYellow = vec3(1.0, 0.85, 0.35);\n    vec3 cOrange = vec3(1.0, 0.5, 0.15);\n    vec3 cRed    = vec3(0.9, 0.1, 0.05);\n    \n    vec3 burnColor = mix(cRed, cOrange, clamp(m * 1.6, 0.0, 1.0));\n    burnColor = mix(burnColor, cYellow, core * 0.7);\n    burnColor = mix(burnColor, cWhite, core * 0.5);\n    \n    // Washed-out effect in burn areas\n    vec3 washed = mix(color, vec3(1.0, 0.95, 0.9), 0.7 * m);\n    \n    // Additive light leak effect (kırmızı ışık sızması)\n    color = color + burnColor * m * burnIntensityBlend * 2.5;\n    \n    // Combine washed and burn color\n    vec3 burnComposite = mix(washed, burnColor, 1.65 * m);\n    color = mix(color, burnComposite, burnIntensityBlend * m * 0.55);\n    \n    // --- 6. HEAVY VIGNETTE ---\n    float vignette = smoothstep(0.85, 0.2, rad);\n    vignette = pow(vignette, 1.5);\n    color *= mix(0.50, 1.0, vignette * (1.0 - VIGNETTE_STRENGTH) + VIGNETTE_STRENGTH);  // Less dark (0.30 → 0.50)\n    \n    // Extra dark corners (Lomo signature)\n    float cornerDark = smoothstep(1.2, 0.4, rad);\n    color *= mix(0.70, 1.0, cornerDark);  // Less dark corners (0.50 → 0.70)\n    \n    // --- 7. DIRTY FILM GRAIN (ISO 400) ---\n    vec2 grainUV = uv * u_resolution.xy * 0.7;\n    \n    float g1 = hash(grainUV + vec2(1.0, 3.0) + u_time * 7.3);\n    float g2 = hash(grainUV + vec2(5.0, 1.0) + u_time * 9.7);\n    float g3 = hash(grainUV + vec2(2.0, 4.0) + u_time * 11.1);\n    vec3 grain = vec3(g1, g2, g3) * 2.0 - 1.0;\n    \n    // Coarser grain structure\n    float coarseGrain = lowFreqNoise(grainUV * 0.3 + u_time * 0.5) * 2.0 - 1.0;\n    grain = mix(grain, vec3(coarseGrain), 0.3);\n    \n    luma = dot(color, LUMA_WEIGHTS);\n    float grainMask = 1.0 - smoothstep(0.7, 1.0, luma);\n    \n    // Dirty, visible grain\n    color += grain * (0.09 * GRAIN_INTENSITY) * grainMask;\n    \n    // Additional grain texture for toy camera feel\n    float dirtyGrain = hash(uv * u_resolution.xy * 0.5 + u_time * 3.7) * 2.0 - 1.0;\n    color += dirtyGrain * 0.025 * GRAIN_INTENSITY;\n    \n    // --- 8. CHEAP FLASH EFFECT (Plastic Skin Tone) ---\n    float flashMask = smoothstep(0.6, 0.85, luma);\n    \n    // Plastic skin tone (slightly yellow-green cast)\n    vec3 plasticTone = vec3(1.05, 1.02, 0.96);\n    color = mix(color, color * plasticTone, flashMask * 0.4);\n    \n    // Harsh flash bloom\n    if(luma \u003E 0.75) {\n        vec3 flashBloom = vec3(1.0, 0.95, 0.85);\n        float bloomAmount = (luma - 0.75) * 1.5;\n        color = mix(color, flashBloom, bloomAmount * 0.3);\n    }\n    \n    // --- 9. FINAL OUTPUT ---\n    color = clamp(color, 0.0, 1.0);\n    \n    return half4(color, 1.0);\n}"
+    },
+    {
+      "id": "filter6",
+      "name": "NoFilter",
+      "shaderCode": "// Uniforms\nuniform shader u_image;\nuniform float2 u_resolution;\nuniform float u_time;\n\n// Main shader function - simply returns the original image\nhalf4 main(float2 frag_coord) {\n    return u_image.eval(frag_coord);\n}"
+    }
+  ]
+}
