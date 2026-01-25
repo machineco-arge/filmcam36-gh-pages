@@ -55,13 +55,6 @@
       "presetImg": "https://aibooth.app/reduced_assets/preset-8-night-out-1.jpg",
       "cameraId": "filter3",
       "filmId": "5ae01557-735d-4a9d-9a18-8beaaf45ed02"
-    },
-    {
-      "id": "9",
-      "name": "Night Out 2",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-7-watch-night-in-1.jpg",
-      "cameraId": "filter3",
-      "filmId": "5ae01557-735d-4a9d-9a18-8beaaf45ed02"
     }
   ]
 }
