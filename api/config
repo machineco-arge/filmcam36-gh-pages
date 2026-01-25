@@ -1,0 +1,111 @@
+{
+   "config": [
+    {
+      "eventRules": [
+        {
+          "id": "film-activity-cooldown",
+          "eventPattern": "create-film-activity",
+          "enabled": true,
+          "skipForProUsers": true,
+          "conditions": {
+            "cooldownHours": 2
+          },
+          "adConfig": {
+            "priority": 10
+          },
+          "updatedAt": "2025-12-03T08:07:30.135Z"
+        },
+        {
+          "id": "select-film-shots-36",
+          "eventPattern": "select-film-shots",
+          "enabled": true,
+          "skipForProUsers": true,
+          "conditions": {
+            "parameterConditions": {
+              "shots": 36
+            }
+          },
+          "adConfig": {
+            "priority": 10
+          },
+          "updatedAt": "2025-12-04T00:00:00.000Z"
+        },
+        {
+          "id": "ai-photo-no-credit-daily",
+          "eventPattern": "ai-photo-no-credit",
+          "enabled": true,
+          "skipForProUsers": true,
+          "conditions": {
+            "requireCooldownHours": 24
+          },
+          "adConfig": {
+            "priority": 10
+          },
+          "updatedAt": "2025-12-04T00:00:00.000Z"
+        },
+        {
+          "id": "express-time-8hours",
+          "eventPattern": "select-express-time",
+          "enabled": true,
+          "skipForProUsers": true,
+          "conditions": {
+            "parameterConditions": {
+              "selectedHours": 8
+            }
+          },
+          "adConfig": {
+            "priority": 10
+          },
+          "updatedAt": "2025-12-03T08:07:30.139Z"
+        },
+        {
+          "id": "express-time-12hours",
+          "eventPattern": "select-express-time",
+          "enabled": true,
+          "skipForProUsers": true,
+          "conditions": {
+            "parameterConditions": {
+              "selectedHours": 12
+            }
+          },
+          "adConfig": {
+            "priority": 10
+          },
+          "updatedAt": "2025-12-04T00:00:00.000Z"
+        },
+        {
+          "id": "express-time-0hours",
+          "eventPattern": "select-express-time",
+          "enabled": true,
+          "skipForProUsers": true,
+          "conditions": {
+            "parameterConditions": {
+              "selectedHours": 0
+            }
+          },
+          "adConfig": {
+            "priority": 10
+          },
+          "updatedAt": "2025-12-04T00:00:00.000Z"
+        },
+        {
+          "id": "speed-up-printing",
+          "eventPattern": "speed-up-printing",
+          "enabled": true,
+          "skipForProUsers": true,
+          "adConfig": {
+            "priority": 10
+          },
+          "updatedAt": "2025-12-04T00:00:00.000Z"
+        }
+      ],
+      "globalSettings": {
+        "adsEnabled": false,
+        "defaultBehavior": "SKIP_AD",
+        "cacheDurationMinutes": 60
+      },
+      "version": "v1.0.3",
+      "timestamp": "2025-12-04T00:00:00.000Z"
+    }
+  ]
+}
