@@ -3,56 +3,56 @@
     {
       "id": "1",
       "name": "Golden Hour",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-1-golden-hour-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-1-golden-hour-2.jpg",
       "cameraId": "filter1",
       "filmId": "f0654e62-5182-4866-b7f1-0987b34b312e"
     },
     {
       "id": "2",
       "name": "Birthday",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-2-birthday-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-2-birthday-2.jpg",
       "cameraId": "filter2",
       "filmId": "f0654e62-5182-4866-b7f1-0987b34b312e"
     },
     {
       "id": "3",
       "name": "Gym Day",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-3-gym-day-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-3-gym-day-2.jpg",
       "cameraId": "filter1",
       "filmId": "2c9278f6-a9db-4b56-8f50-5a9e916ed8cc"
     },
     {
       "id": "4",
       "name": "Home Party",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-4-home-party-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-4-home-party-2.jpg",
       "cameraId": "filter4",
       "filmId": "2c9278f6-a9db-4b56-8f50-5a9e916ed8cc"
     },
     {
       "id": "5",
       "name": "Match Day",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-5-match-day-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-5-match-day-2.jpg",
       "cameraId": "filter5",
       "filmId": "5ae01557-735d-4a9d-9a18-8beaaf45ed02"
     },
     {
       "id": "6",
       "name": "Explore The City",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-6-explore-the-city-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-6-explore-the-city-2.jpg",
       "cameraId": "filter5",
       "filmId": "5ae01557-735d-4a9d-9a18-8beaaf45ed02"
     },
     {
       "id": "7",
       "name": "Watch Night In",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-7-watch-night-in-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-7-watch-night-in-2.jpg",
       "cameraId": "filter3",
       "filmId": "5ae01557-735d-4a9d-9a18-8beaaf45ed02"
     },
     {
       "id": "8",
       "name": "Night Out",
-      "presetImg": "https://aibooth.app/reduced_assets/preset-8-night-out-1.jpg",
+      "presetImg": "https://filmcam36configs.aibooth.app/api/filmcam36/assets/instantActivities/preset-8-night-out-2.jpg",
       "cameraId": "filter3",
       "filmId": "5ae01557-735d-4a9d-9a18-8beaaf45ed02"
     }
