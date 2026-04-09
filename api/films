@@ -27,25 +27,29 @@
       "_id": "1",
       "time": 36,
       "isExpress": false,
-      "description": "Slow"
+      "description": "Slow",
+      "text": "36 hours"
     },
     {
       "_id": "2",
       "time": 24,
       "isExpress": false,
-      "description": "Standard"
+      "description": "Standard",
+      "text": "24 hours"
     },
     {
       "_id": "3",
       "time": 12,
       "isExpress": true,
-      "description": "Fast"
+      "description": "Fast",
+      "text": "12 hours"
     },
     {
       "_id": "4",
       "time": 8,
       "isExpress": true,
-      "description": "Express"
+      "description": "Express",
+      "text": "8 hours"
     }
   ]
 }
