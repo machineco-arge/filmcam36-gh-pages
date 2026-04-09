@@ -26,22 +26,26 @@
     {
       "_id": "1",
       "time": 36,
-      "isExpress": false
+      "isExpress": false,
+      "description": "Slow"
     },
     {
       "_id": "2",
       "time": 24,
-      "isExpress": false
+      "isExpress": false,
+      "description": "Standard"
     },
     {
       "_id": "3",
       "time": 12,
-      "isExpress": true
+      "isExpress": true,
+      "description": "Fast"
     },
     {
       "_id": "4",
       "time": 8,
-      "isExpress": true
+      "isExpress": true,
+      "description": "Express"
     }
   ]
 }
