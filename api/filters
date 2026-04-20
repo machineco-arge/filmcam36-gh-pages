@@ -1,4 +1,6 @@
 {
+  "cacheDuration": 28800000,
+  "imageChangeDuration": 120000,
   "filters": [
     {
       "id": "filter1",
