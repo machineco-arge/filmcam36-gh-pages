@@ -5,6 +5,7 @@
     {
       "id": "filter1",
       "name": "Kodamax",
+      "forProUsers": false,
       "isFlash": false,
       "svgURL": "https://aibooth.app/reduced_assets/1-868759d6-eb5f-48c5-9480-82d5cc88585b.png",
       "miniUrl": "https://aibooth.app/reduced_assets/1-868759d6-eb5f-48c5-9480-82d5cc8858-m.png",
@@ -50,6 +51,7 @@
     {
       "id": "filter2",
       "name": "Pastelia",
+      "forProUsers": true,
       "svgURL": "https://aibooth.app/reduced_assets/1-a5be005d-6bd6-4e8d-a0a6-18ca76ab0db1.png",
       "miniUrl": "https://aibooth.app/reduced_assets/1-a5be005d-6bd6-4e8d-a0a6-18ca76ab0d-m.png",
       "description": "PasteliaDescription",
@@ -94,6 +96,7 @@
     {
       "id": "filter3",
       "name": "Nightchrome",
+      "forProUsers": false,
       "isFlash": false,
       "svgURL": "https://aibooth.app/reduced_assets/1-53ee077f-8e27-4538-ac02-e26722e3350c.png",
       "miniUrl": "https://aibooth.app/reduced_assets/1-53ee077f-8e27-4538-ac02-e26722e335-m.png",
@@ -139,6 +142,7 @@
     {
       "id": "filter4",
       "name": "Flashpop '99",
+      "forProUsers": true,
       "isFlash": true,
       "svgURL": "https://aibooth.app/reduced_assets/1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d81a.png",
       "miniUrl": "https://aibooth.app/reduced_assets/1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d8-m.png",
@@ -184,6 +188,7 @@
     {
       "id": "filter5",
       "name": "Lomocore",
+      "forProUsers": false,
       "svgURL": "https://aibooth.app/reduced_assets/1-fdb252bf-9f7b-4fe7-875a-11e6226678fd.png",
       "miniUrl": "https://aibooth.app/reduced_assets/1-fdb252bf-9f7b-4fe7-875a-11e6226678-m.png",
       "description": "LomocoreDescription",
@@ -228,6 +233,7 @@
     {
       "id": "filter6",
       "name": "NoFilter",
+      "forProUsers": false,
       "svgURL": "https://aibooth.app/reduced_assets/no-filter1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d81a.png",
       "miniUrl": "https://aibooth.app/reduced_assets/no-filter1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d8-m.png",
       "description": "NoFilterDescription",
