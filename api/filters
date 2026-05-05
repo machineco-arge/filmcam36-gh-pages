@@ -51,7 +51,7 @@
     {
       "id": "filter2",
       "name": "Pastelia",
-      "forProUsers": true,
+      "forProUsers": false,
       "svgURL": "https://aibooth.app/reduced_assets/1-a5be005d-6bd6-4e8d-a0a6-18ca76ab0db1.png",
       "miniUrl": "https://aibooth.app/reduced_assets/1-a5be005d-6bd6-4e8d-a0a6-18ca76ab0d-m.png",
       "description": "PasteliaDescription",
@@ -142,7 +142,7 @@
     {
       "id": "filter4",
       "name": "Flashpop '99",
-      "forProUsers": true,
+      "forProUsers": false,
       "isFlash": true,
       "svgURL": "https://aibooth.app/reduced_assets/1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d81a.png",
       "miniUrl": "https://aibooth.app/reduced_assets/1-0fb68ef6-c718-4ef5-a0c8-a59b87f3d8-m.png",
