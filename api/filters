@@ -5,7 +5,7 @@
     {
       "id": "filter1",
       "name": "Kodamax",
-      "forProUsers": true,
+      "forProUsers": false,
       "isFlash": false,
       "svgURL": "https://filmcam36.com/reduced_assets/1-868759d6-eb5f-48c5-9480-82d5cc88585b.png",
       "miniUrl": "https://filmcam36.com/reduced_assets/1-868759d6-eb5f-48c5-9480-82d5cc8858-m.png",
