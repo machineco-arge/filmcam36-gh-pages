@@ -5,21 +5,24 @@
       "svg": "https://filmcam36.com/api/photoApp/access/film36shot-24h.svg",
       "title": "Rulo1",
       "shots": 36,
-      "time": 24
+      "time": 24,
+      "forProUsers": true
     },
     {
       "_id": "5ae01557-735d-4a9d-9a18-8beaaf45ed02",
       "svg": "https://filmcam36.com/api/photoApp/access/film36shot-12h.svg",
       "title": "Rulo3",
       "shots": 24,
-      "time": 12
+      "time": 12,
+      "forProUsers": false
     },
     {
       "_id": "2c9278f6-a9db-4b56-8f50-5a9e916ed8cc",
       "svg": "https://filmcam36.com/api/photoApp/access/film36shot-8h.svg",
       "title": "Rulo2",
       "shots": 12,
-      "time": 8
+      "time": 8,
+      "forProUsers": false
     }
   ],
   "timeOptions": [
