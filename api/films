@@ -1,4 +1,5 @@
 {
+  "activityCooldownMs": 7200000,
   "films": [
     {
       "_id": "f0654e62-5182-4866-b7f1-0987b34b312e",
