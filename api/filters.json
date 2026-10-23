@@ -14,13 +14,13 @@
       "images": [
         {
           "title": "Örnek resim 1",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/1-kodamax-before-b9980cc9-e033-4843-95f4-2d968c1ce0e4.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/1-kodamax-after-522d1106-577e-4553-80b2-86be79da3276.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-kodamax-before-b9980cc9-e033-4843-95f4-2d968c1ce0e4.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-kodamax-after-522d1106-577e-4553-80b2-86be79da3276.jpg"
         },
         {
           "title": "Örnek resim 2",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/2-kodamax-before-1fa6580c-6f57-482c-a0da-7a778532d6ec.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/2-kodamax-after-f15b58a7-c238-434b-a925-f57f6417b120.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-kodamax-before-1fa6580c-6f57-482c-a0da-7a778532d6ec.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-kodamax-after-f15b58a7-c238-434b-a925-f57f6417b120.jpg"
         }
       ]
     },
@@ -36,13 +36,13 @@
       "images": [
         {
           "title": "Örnek resim 1",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/1-pastelia-before-926c61c2-b4c8-4832-a4ac-a82007941d86.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/1-pastelia-after-cdfa77b4-073f-4011-b8d0-259bcbb32c38.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-pastelia-before-926c61c2-b4c8-4832-a4ac-a82007941d86.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-pastelia-after-cdfa77b4-073f-4011-b8d0-259bcbb32c38.jpg"
         },
         {
           "title": "Örnek resim 2",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/2-pastelia-before-8469b6de-67e8-4813-b0aa-ba7deb1e2543.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/2-pastelia-after-4d6352ef-dd2a-4502-b414-5349f643404e.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-pastelia-before-8469b6de-67e8-4813-b0aa-ba7deb1e2543.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-pastelia-after-4d6352ef-dd2a-4502-b414-5349f643404e.jpg"
         }
       ]
     },
@@ -58,13 +58,13 @@
       "images": [
         {
           "title": "Örnek resim 1",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/1-flashpop-before-4b6e084d-5bec-425d-a4b4-b114a66bad8b.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/1-flashpop-after-c0e79991-ee53-437f-a1eb-4cc53366b2ce.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-flashpop-before-4b6e084d-5bec-425d-a4b4-b114a66bad8b.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-flashpop-after-c0e79991-ee53-437f-a1eb-4cc53366b2ce.jpg"
         },
         {
           "title": "Örnek resim 2",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/2-flashpop-before-a16c0f7d-bd81-4a7c-b500-3d2c3b225270.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/2-flashpop-after-71311cb6-35ba-45c5-97d9-5a5c78e6d9c4.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-flashpop-before-a16c0f7d-bd81-4a7c-b500-3d2c3b225270.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-flashpop-after-71311cb6-35ba-45c5-97d9-5a5c78e6d9c4.jpg"
         }
       ]
     },
@@ -102,13 +102,13 @@
       "images": [
         {
           "title": "Örnek resim 1",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/1-lomocore-before-47a33d3d-0c21-4278-a402-cac5ce325bec.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/1-lomocore-after-a1e81448-1c5d-4b7b-be8c-ff0716bad314.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-lomocore-before-47a33d3d-0c21-4278-a402-cac5ce325bec.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-lomocore-after-a1e81448-1c5d-4b7b-be8c-ff0716bad314.jpg"
         },
         {
           "title": "Örnek resim 2",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/2-lomocore-before-70089a37-6028-4713-bc5e-73ac6a89771f.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/2-lomocore-after-f713a471-bc97-47fb-bc67-54a8c3271b1b.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-lomocore-before-70089a37-6028-4713-bc5e-73ac6a89771f.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-lomocore-after-f713a471-bc97-47fb-bc67-54a8c3271b1b.jpg"
         }
       ]
     },
@@ -190,13 +190,13 @@
       "images": [
         {
           "title": "Örnek resim 1",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/1-night-before-6754b491-3099-4d6b-918a-e9d743848901.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/1-night-after-839ff1b0-928b-4946-b374-7a3aebc3a840.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-night-before-6754b491-3099-4d6b-918a-e9d743848901.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-night-after-839ff1b0-928b-4946-b374-7a3aebc3a840.jpg"
         },
         {
           "title": "Örnek resim 2",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/2-night-before-85289bbb-1982-42c6-9ddb-8162b2456a49.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/2-night-after-0b542150-108d-4ad5-b104-5d26a2f93383.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-night-before-85289bbb-1982-42c6-9ddb-8162b2456a49.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-night-after-0b542150-108d-4ad5-b104-5d26a2f93383.jpg"
         }
       ]
     },
@@ -212,13 +212,13 @@
       "images": [
         {
           "title": "Örnek resim 1",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/1-nofilter-44f75226-74f1-4483-8620-475e3d5e1a04.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/1-nofilter-44f75226-74f1-4483-8620-475e3d5e1a04.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-nofilter-44f75226-74f1-4483-8620-475e3d5e1a04.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/1-nofilter-44f75226-74f1-4483-8620-475e3d5e1a04.jpg"
         },
         {
           "title": "Örnek resim 2",
-          "beforeImgSrc": "https://filmcam36.com/reduced_assets/2-nofilter-15583217-8cee-4447-94dd-84d1b73baf15.jpg",
-          "afterImgSrc": "https://filmcam36.com/reduced_assets/2-nofilter-15583217-8cee-4447-94dd-84d1b73baf15.jpg"
+          "beforeImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-nofilter-15583217-8cee-4447-94dd-84d1b73baf15.jpg",
+          "afterImgSrc": "https://configs.filmcam36.com/api/assets/reduced_assets/2-nofilter-15583217-8cee-4447-94dd-84d1b73baf15.jpg"
         }
       ]
     }
